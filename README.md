@@ -3,7 +3,7 @@
 <p align="center">
   
 
-![360_F_285235650_J1YpUGo8SLtlQNPMGFN0zkclbiihAL9J](https://github.com/George210843/HCI_Project/assets/81190585/1123d573-65c9-41de-9128-a64782ea45bc)
+![1_KKYIyOC0pdyfTyTI1AUnqg](https://github.com/George210843/HCI_Project/assets/81190585/d3645da0-cdda-48b5-b34a-954c2a5a87d8)
 
 
 </p>
