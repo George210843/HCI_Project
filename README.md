@@ -43,8 +43,6 @@ Phase 2 :
 ## Author(s)
 **Mostafa Hassan**
 </br>
-**Hassan Mostafa**
-</br>
 **George Amal**
 </br>
 **Mina Nassef**
