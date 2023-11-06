@@ -14,6 +14,13 @@ The purpose of this project is to develop a system that can analyze and detect s
 
 <hr>
 
+
+<h1 align="center">Trello Link</h1>
+
+https://trello.com/b/D7sroKKm/project-management
+
+<hr>
+
 Project Phases:
 
 Phase 1 : In this phase we have covered the main criteria for our project as the criteria was : 
