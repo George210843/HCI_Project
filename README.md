@@ -1,5 +1,5 @@
 <h1 align="center">Human Computer Interaction Project</h1>
-<p align="center">Project title : ??</p>
+<p align="center">Project title : Student Behaviour Analysis during Lectures </p>
 <p align="center">
   
 
@@ -36,7 +36,11 @@ Phase 2 :
 
 <h1 align="center">🚀 Features</h1>
 
-
+1) Data Collection
+2) Facial Expression Recognition
+3) Body Language Analysis
+4) Data Processing and Analysis
+5) Reporting and Feedback
 
 <hr>
 
