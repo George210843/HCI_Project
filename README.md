@@ -9,15 +9,20 @@
 </p>
 <h1 align="center">Project Description </h1>
 
-
+The purpose of this project is to develop a system that can analyze and detect student behavior during lectures using facial expressions and body language. The system will use Python programming language and various computer vision techniques to accurately identify and interpret the emotions and expressions exhibited by each student. The main objective is to provide the teacher with valuable insights into student engagement and emotional states, enabling them to evaluate and improve their teaching methods effectively.
 
 <hr>
 
 Project Phases:
 
-Phase 1 :
+Phase 1 : In this phase we have covered the main criteria for our project as the criteria was : 
 
-
+1) Write Scenario.
+2) PACT Analysis.
+3) Track Human Skelton using mediapipe and classify movement using dollarpy.
+4) Recognize Markers using (TUIO) from camera and display scenario.
+5) Use Socket programming to communicate data between C# and python.
+6) Load different content based on context.
 
 Phase 2 :
 
