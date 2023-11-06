@@ -32,11 +32,96 @@ Phase 2 :
 
 <h1 align="center">🚀 Folder Structure</h1>
 
+clinet --> using C#
+
+```
+
+└── client/
+    ├── bin/
+    ├── doc/
+    ├── obj/
+    ├── OSC.NET/
+    ├── TUIO/
+    |     └── TuioBlob.cs
+    |     └── TuioClient.cs
+    |     └── TuioContainer.cs
+    |     └── TuioCursor.cs
+    |     └── TuioListener.cs
+    |     └── TuioObject.cs
+    |     └── TuioPoint.cs
+    |     └── TuioTime.cs
+    └── TuioDemo.css
+    └── TuioDump.css
+
+```
+
+
+
+server --> using reacTIVision
+
+```
+
+└── server/
+    └── reacTIVision.exe
+
+
+```
+python --> using python programming language
+
+```
+
+└── python/
+       └── main.ipynb
+```
+
+markers --> markers images for student and teacher
+
+```
+
+└── markers/
+       └── student.png
+       └── teacher.png
+```
+documentation --> project pdf documentation
+
+```
+
+└── documentation/
+       └── documentation.pdf
+
+```
+videos --> some videos to test the project performance and functionalities
+
+```
+
+└── videos/
+       └── mina.mp4
+       └── minaa.mp4
+       └── .........
+
+```
+criteria --> project criteria
+
+```
+
+└── criteria/
+       └── Project HCI.pdf
+       └── Project HCI2.pdf
+
+
+
+```
+
 
 <hr>
 
 <h1 align="center">🚀 How to run the project</h1>
 
+client side using C# run on visual studio ---> Tuiodemo.cs
+
+server side using reacTIVison run ---> reacTIVison.exe
+
+python side using C# run on vs code ---> main.ipynb
 
 <hr>
 
