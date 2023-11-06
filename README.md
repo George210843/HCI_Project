@@ -5,6 +5,7 @@
 
 ![1_KKYIyOC0pdyfTyTI1AUnqg](https://github.com/George210843/HCI_Project/assets/81190585/d3645da0-cdda-48b5-b34a-954c2a5a87d8)
 
+![iStock-1324921652-crop](https://github.com/George210843/HCI_Project/assets/81190585/c9850529-af14-487f-8c9c-acec462639b0)
 
 </p>
 <h1 align="center">Project Description </h1>
