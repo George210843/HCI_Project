@@ -21,7 +21,8 @@ https://trello.com/b/D7sroKKm/project-management
 
 <hr>
 
-Project Phases:
+<h1 align="center">Project Phases</h1>
+
 
 Phase 1 : In this phase we have covered the main criteria for our project as the criteria was : 
 
